@@ -14,7 +14,7 @@ for i in ma_list:
     #then we remove data already randomize in our list, but the complexity is high for this little program
     for element in random_list:
         ma_list.remove(element)
-    print("Goupe N°:",groupe)
+    print(f"Goupe N°:{groupe}")#utilisation de f-string
     #and we finally print our randomized list
     print(random_list)
     print("______________________________")
