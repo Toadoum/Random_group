@@ -1,2 +1,2 @@
 # Random_group
-Ce repository est pour un TP
+ce repositery a étè ajuster pour reduire le nombre des personnes du groupe par 3
