@@ -9,7 +9,7 @@ maListOc = ma_list
 random_list = None
 groupe = 1
 #for each element in ma_list, we randome and put into our variable
-print("########################### Composition de groupe #########################")
+print("########################### Composition de groupe de travail #########################")
 for i in ma_list:
 #This condition will avoid errors when n is greater than 4
     if(len(ma_list)<=5):
