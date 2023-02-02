@@ -1,6 +1,6 @@
 from random import sample
 ma_liste = ["Hamidé", "Nil", "Hassan", "Ezechiel", "Succès", "Elie", "Bray", "Innocent", "Hamza", "Bertrand", "Issa", "Julie", "Exaucé", "Yannick", "Sevrin", "Hyppolite", "Seraphin", "Sakayo"]
-liste_randomise = []
+liste_randomise = list()
 groupe = 1
 for i in ma_liste:
     if len(ma_liste) <= 5:
@@ -9,9 +9,7 @@ for i in ma_liste:
     
     for elem in liste_randomise:
         ma_liste.remove(elem)
-    print("Groupe N° ", groupe)
-    print(liste_randomise)
-    print("----------------------------------------------------------")
+    print("Groupe N° ", groupe, "\n", liste_randomise, "\n----------------------------------------------------------")
     groupe+=1
 if ma_liste:
     print(ma_liste)
