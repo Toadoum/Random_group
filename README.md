@@ -1,2 +1,2 @@
 # Random_group
-Ce repository est pour un TP
+une version plus ou oins optimale du code 
