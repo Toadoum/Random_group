@@ -1,3 +1,4 @@
 # Random_group
 Ce repository est pour un TP
-Le code qui y etais au départ, etais mal écrit je viens de le modifier pour le faire marché normalement.
+
+Je n'ai pas modifié grand chose. Il yavait juste quelque noms à ajouter et le motif à remplacer.
